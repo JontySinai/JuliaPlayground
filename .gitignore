@@ -3,3 +3,6 @@
 
 # jupyter
 **/.ipynb_checkpoints/
+
+# models
+**/runs/
